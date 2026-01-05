@@ -9,4 +9,4 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Run custom action
-        uses: YOUR_GITHUB_USER_NAME/YOUR_GITHUB_REPO_NAME
+        uses: https://github.dev/suncruise/custom-action-challenge/
